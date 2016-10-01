@@ -1,5 +1,5 @@
-# mymeanproject
-Demonstration over mongo db , express , angular js and node js
+# Customize Mean Project
+Demonstration over Mysql as db , Express JS , Angular JS and Node JS
 
 #Author :
 Sharif Malik -- Frontend views i.e. Angular JS  
